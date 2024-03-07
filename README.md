@@ -1,8 +1,15 @@
-# React + Vite
+<h1 align="center">React Document Manager App</h1>
+This project is a document manager and clipboard app built using React.js and Vite. It allows users to manage their documents efficiently and provides a clipboard feature for quick copy-paste actions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>Features</h3>
 
-Currently, two official plugins are available:
+- Document Management: Easily create, edit, delete, and organize documents.
+- Clipboard Functionality: Quickly copy and paste text using the clipboard feature.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Technologies Used</h3>
+
+- React.js: A JavaScript library for building user interfaces.
+- Vite: A build tool for modern web development, offering a fast development experience.
+- HTML/CSS: Frontend markup and styling for the application.
+- JavaScript/JSX: Programming language and syntax used for React components.
+
